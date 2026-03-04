@@ -114,6 +114,7 @@ const styles = StyleSheet.create({
     padding: 12,
     marginBottom: 15,
     backgroundColor: '#131313',
+    color: '#fff',
   },
   ForgotPassword: {
     alignSelf: 'flex-end', //Para alinear a la derecha, dentro del contenedor
